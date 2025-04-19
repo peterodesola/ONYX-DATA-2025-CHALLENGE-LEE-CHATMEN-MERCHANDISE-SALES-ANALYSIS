@@ -1,3 +1,17 @@
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Data Processing](#data-processing)
+  - [Data Collection and Cleaning](#data-collection-and-cleaning)
+  - [Data Transformation](#data-transformation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Strategic Recommendations](#strategic-recommendations)
+- [Tools and Technologies](#tools-and-technologies)
+- [Challenges and Lessons Learned](#challenges-and-lessons-learned)
+- [Conclusion](#conclusion)
+
+
 
 # Onyx Data 2025 Challenge: Lee Chatmen Merchandise Sales Analysis
 ## Introduction
